@@ -88,7 +88,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "GlobalPasswordCreator";
-            this.Text = "Form1";
+            this.Text = "Global Pasword Creator";
             this.ResumeLayout(false);
             this.PerformLayout();
 

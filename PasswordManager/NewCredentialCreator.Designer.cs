@@ -132,7 +132,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Name = "NewCredentialCreator";
-            this.Text = "Form1";
+            this.Text = "Credential Creator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
